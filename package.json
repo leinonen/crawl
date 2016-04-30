@@ -1,0 +1,16 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "description": "Lame attempt to create a web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Leinonen",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "parse-domain": "^0.2.1",
+    "request": "^2.72.0"
+  }
+}
